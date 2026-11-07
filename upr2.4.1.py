@@ -110,4 +110,4 @@ def analyze_objects(image_path=None):
 
 
 # === ИЗВИКВАНЕ НА ФУНКЦИЯТА (БЕЗ ДА Е КОМЕНТИРАНО) ===
-analyze_objects()ь
+analyze_objects()
